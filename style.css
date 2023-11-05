@@ -1,0 +1,39 @@
+/* FOREGROUND COLOR */
+
+/* BY NAME COLOR */
+/* h1{
+    color: blue;
+} */
+
+/* USING HEX CODE */
+/* h1{
+    color: #ff9989;
+} */
+
+/* USING RGB  */
+/* h1{
+    color: rgb(99, 98, 89);
+} */
+
+/* BACKGROUND COLOR */
+
+/* body{
+    background-color: wheat;
+    color: red;
+} */
+
+/* div{
+    background-color: wheat;
+    color: blue;
+} */
+
+/* OPACITY IN CSS */
+
+/* #div1{
+    background-color: yellowgreen;
+   opacity: 0.3;
+} */
+
+/* img{
+    opacity: 0.3;
+} */
